@@ -15,9 +15,9 @@ les SIG et les technologies open source.
 ![Symfony](https://img.shields.io/badge/Symfony-black)
 ![Docker](https://img.shields.io/badge/Docker-blue)
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SylvieHoareau&show_icons=true)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=SylvieHoareau)
 
 ## 🚀 Projets
 
