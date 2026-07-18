@@ -2,6 +2,7 @@
 
 Je suis développeuse web en formation, passionnée par les applications web,
 les SIG et les technologies open source.
+Sensibilisée aux enjeux du numérique responsable, j'intègre une démarche d'éco-conception et d'accessibilité (RGAA) dans mes développements.
 
 🎯 Objectif : devenir Concepteur Développeur d'Applications.
 
