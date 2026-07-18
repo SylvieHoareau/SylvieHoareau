@@ -31,6 +31,6 @@ les SIG et les technologies open source.
 
 ## 📫 Contact
 
-* LinkedIn : (https://www.linkedin.com/in/sylvie-marie-sandrine-hoareau/)
+* LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/sylvie-marie-sandrine-hoareau/)
 
-* Portfolio : (https://portfolio-dev-web-fullstack.vercel.app/)
+* Portfolio : [Mon Portfolio](https://portfolio-dev-web-fullstack.vercel.app/)
