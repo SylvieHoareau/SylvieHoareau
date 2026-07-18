@@ -7,6 +7,11 @@ les SIG et les technologies open source.
 
 💻 Technologies principales : JavaScript, TypeScript, React, Node.js
 
+## 📜 Certifications
+
+![ISTQB Foundation](https://img.shields.io/badge/ISTQB%20Foundation-Certified-blue?style=flat&logo=istqb&logoColor=white)
+![Unity User Programmer](https://img.shields.io/badge/Unity%20User%20Programmer-Certified-black?style=flat&logo=unity&logoColor=white)
+
 ## 🛠️ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
